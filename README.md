@@ -1,2 +1,2 @@
 # tic-tac-toe
-python project with 4 modes
+python game(X&O) with 4 modes
